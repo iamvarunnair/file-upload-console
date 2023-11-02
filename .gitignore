@@ -1,0 +1,6 @@
+# client app build
+web
+
+# node
+node_modules
+**/node_modules

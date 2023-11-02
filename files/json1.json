@@ -1,0 +1,7 @@
+{
+    "message": "test",
+    "details": {
+        "from": "john doe",
+        "to": "jane doe"
+    }
+}
